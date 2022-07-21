@@ -1,0 +1,35 @@
+
+.panel-heading{
+    justify-content: center;
+    display: flex;
+}
+.overflow-auto{
+    /* width: 38%; */
+    justify-content: center;
+    height: 80%;
+}
+.col-12{
+    display: flex;
+    justify-content: center;
+}
+
+.ImageWidth .img{ 
+    width: 100%;
+    height: 100%;
+    
+}
+
+.img-thumbnail {
+    padding: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all 1.2s ease-in-out;
+    display: inline-block;
+    /* max-width: 87%; */
+    height: auto;
+    /* width: 90%; */
+}
